@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="business_card_name">Harshil Sharma</string>
+    <string name="business_card_title">Android Developer Extraordinaire</string>
+    <string name="my_mail">harshilsharma.2020@gmail.com</string>
+    <string name="my_google_dev_id">g.dev/harshilshrma</string>
+    <string name="my_number">+91-78519 22204</string>
+</resources>
