@@ -151,11 +151,5 @@ fun BottomScreen(number: String, link: String, mail: String, modifier: Modifier 
 @Preview(showBackground = true)
 @Composable
 fun BusinessCardPreview() {
-    BusinessCardTheme {
-        BottomScreen(
-            stringResource(R.string.my_number),
-            stringResource(R.string.my_google_dev_id),
-            stringResource(R.string.my_mail)
-        )
-    }
+    CompleteScreen()
 }
